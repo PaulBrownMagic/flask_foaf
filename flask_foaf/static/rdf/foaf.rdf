@@ -1,0 +1,22 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:dcterms="http://purl.org/dc/terms/terms">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+  <foaf:name>Paul Brown</foaf:name>
+  <foaf:title>Mr</foaf:title>
+  <foaf:givenname>Paul</foaf:givenname>
+  <foaf:family_name>Brown</foaf:family_name>
+  <foaf:mbox rdf:resource="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#117;&#108;&#64;&#112;&#97;&#117;&#108;&#98;&#114;&#111;&#119;&#110;&#109;&#97;&#103;&#105;&#99;&#46;&#99;&#111;&#109;"/>
+  <foaf:mbox_sha1sum>78236a85df91152d8a5464d47627959662ad8db7</foaf:mbox_sha1sum>
+  <foaf:homepage rdf:resource="http://www.paulbrownmagic.com"/>
+  <foaf:workplaceHomepage rdf:resource="https://engineering.leeds.ac.uk/pgrlist"/>
+  <foaf:workInfoHomepage rdf:resource="http://www.paulbrownmagic.com/academic"/>
+  <foaf:weblog rdf:resource="http://www.paulbrownmagic.com/blog"/>
+</foaf:Person>
+</rdf:RDF>
